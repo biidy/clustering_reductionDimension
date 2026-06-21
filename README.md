@@ -55,4 +55,4 @@ pip install -r requirements.txt
 \`\`\`
 
 ## Auteur
-[Ton nom] - [ton lien LinkedIn ou portfolio]
+[sarobidy Nirinifitiavana]
